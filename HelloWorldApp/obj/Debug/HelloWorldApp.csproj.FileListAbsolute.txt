@@ -1,0 +1,7 @@
+C:\Users\Crist\Source\Repos\UPVTubeISW\UPVTubeISW\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\Crist\Source\Repos\UPVTubeISW\UPVTubeISW\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\Crist\Source\Repos\UPVTubeISW\UPVTubeISW\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\Crist\Source\Repos\UPVTubeISW\UPVTubeISW\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\Crist\Source\Repos\UPVTubeISW\UPVTubeISW\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Crist\Source\Repos\UPVTubeISW\UPVTubeISW\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\Crist\Source\Repos\UPVTubeISW\UPVTubeISW\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

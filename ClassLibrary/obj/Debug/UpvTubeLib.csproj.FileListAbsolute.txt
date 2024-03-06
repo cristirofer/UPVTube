@@ -1,0 +1,12 @@
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\obj\Debug\UpvTubeLib.csproj.AssemblyReference.cache
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\obj\Debug\UpvTubeLib.csproj.CoreCompileInputs.cache
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\bin\Debug\UpvTubeLib.dll
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\bin\Debug\UpvTubeLib.pdb
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\obj\Debug\UpvTubeLib.dll
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\obj\Debug\UpvTubeLib.pdb
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\bin\Debug\UpvTubeLib.dll.config
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\ClassLibrary\obj\Debug\UpvTubeLib.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\obj\Debug\DBTest.csproj.AssemblyReference.cache
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\DBTest.exe
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\DBTest.pdb
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\EntityFramework.dll
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\UpvTubeLib.dll
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\UpvTubeLib.pdb
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\UpvTubeLib.dll.config
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\EntityFramework.xml
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\obj\Debug\DBTest.csproj.CopyComplete
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\obj\Debug\DBTest.exe
+C:\Users\Crist\source\repos\UPVTubeISW\UPVTubeISW\DBTest\obj\Debug\DBTest.pdb
